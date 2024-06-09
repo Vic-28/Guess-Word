@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(255, 0, 255);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+main {
+    border: solid;
+    width: 500px;
+    height: 500px;
+    border-radius: 10%;
+    margin-top: 20%;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    background-color: #030616;
+}
+
+h4
+{
+    color: #672171;
+}
